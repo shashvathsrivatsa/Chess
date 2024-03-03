@@ -1,1 +1,1 @@
-Fork this [Replit](https://replit.com/@Shashp/Chess)
+[Fork this Replit](https://replit.com/@Shashp/Chess)
